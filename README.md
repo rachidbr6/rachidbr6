@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rachid%20Bourjila&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Industry%204.0%20%C3%97%20Applied%20AI%20%C3%97%20IoT&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rachid%20Bourjila&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Industry%204.0%20%C3%97%20Applied%20AI%20%C3%97%20Project%20Management&descAlignY=62&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Engineering+student%2C+ENSGSI+Nancy+%26+Mines+Rabat;Industry+4.0+%C3%97+Applied+AI+%C3%97+IoT;Python%2C+LLM%2FRAG%2C+Power+BI;Agile%2FScrum+project+management" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Engineering+student%2C+ENSGSI+Nancy+%26+Mines+Rabat;Industry+4.0+%C3%97+Applied+AI+%C3%97+Project+Management;Python%2C+LLM%2FRAG%2C+Power+BI;IoT+pipelines%2C+predictive+maintenance%2C+Agile%2FScrum" alt="Typing SVG" />
 </a>
 
 </div>

@@ -1,27 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rachid%20Bourjila&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Industry%204.0%20%C3%97%20AI%20%C3%97%20IoT%20%C3%97%20Cloud&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rachid%20Bourjila&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Industry%204.0%20%C3%97%20Applied%20AI%20%C3%97%20IoT&descAlignY=62&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Engineering+student+%40+ENSGSI%2C+Nancy;Turning+sensor+data+into+decisions;AI+%2B+IoT+%2B+Cloud+for+Industry+4.0;Always+shipping+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Engineering+student%2C+ENSGSI+Nancy+%26+Mines+Rabat;Industry+4.0+%C3%97+Applied+AI+%C3%97+IoT;Python%2C+LLM%2FRAG%2C+Power+BI;Agile%2FScrum+project+management" alt="Typing SVG" />
 </a>
 
 </div>
 
 ## About me
 
-- 🎓 Engineering student at **ENSGSI, Nancy** (2022 – 2027)
-- 🏭 Focused on **Industry 4.0**: predictive maintenance, IoT pipelines, and computer vision for industrial quality control
-- 🤖 Building **AI-powered tools** — from anomaly detection models to LLM-backed diagnostic assistants
-- 🌐 Also comfortable end-to-end on the web: Flask/FastAPI/PHP backends, React frontends, MySQL/PostgreSQL/MongoDB
+- 🎓 Engineering student — **ENSGSI Nancy** (France) & **Mines Rabat** (Morocco)
+- 🏭 Focused on **Industry 4.0, applied AI and IoT**: predictive maintenance, sensor-to-dashboard pipelines, computer vision for quality control
+- 📊 Turn data into decisions with **Python**, **LLM/RAG** pipelines, and **Power BI** dashboards
+- 🧭 Comfortable running a project end to end — **Agile/Scrum**, not just the code
+- 🌐 Full-stack when a project needs it: Flask/FastAPI/PHP backends, React frontends, MySQL/PostgreSQL/MongoDB
 - 📍 Morocco — currently studying in France
-- 💬 Ask me about predictive maintenance, computer vision, or turning a Jupyter notebook into something that actually runs in production
+- 💬 Ask me about predictive maintenance, computer vision, RAG pipelines, or turning a Jupyter notebook into something that actually runs in production
 
 ## Tech stack
 
-**AI, backend & industrial**
+**AI & data**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,java,nodejs,php,laravel&perline=8" alt="backend and AI stack" />
+<img src="https://skillicons.dev/icons?i=python&perline=8" alt="Python" />
+<img src="https://img.shields.io/badge/LLM%20%2F%20RAG-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM / RAG" height="48"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" height="48"/>
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,java,nodejs,php,laravel&perline=8" alt="backend stack" />
 
 **Frontend**
 
@@ -30,6 +37,12 @@
 **Databases & tools**
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,linux,vscode&perline=8" alt="databases and tools" />
+
+**Ways of working**
+
+<img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge" alt="Agile"/>
+<img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge" alt="Scrum"/>
+<img src="https://img.shields.io/badge/Project%20Management-FF6B6B?style=for-the-badge" alt="Project Management"/>
 
 ## Featured projects
 
@@ -50,6 +63,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachidbr6&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachidbr6&theme=tokyonight&hide_border=true" alt="GitHub streak" width="70%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rachidbr6&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" width="90%"/>
 
 </div>
 

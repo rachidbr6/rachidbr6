@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rachid%20Bourjila&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Industry%204.0%20%C3%97%20AI%20%C3%97%20IoT%20%C3%97%20Cloud&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rachid%20Bourjila&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Industry%204.0%20%C3%97%20AI%20%C3%97%20IoT%20%C3%97%20Cloud&descAlignY=62&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Engineering+student+%40+ENSGSI%2C+Nancy;Turning+sensor+data+into+decisions;AI+%2B+IoT+%2B+Cloud+for+Industry+4.0;Always+shipping+something+new" alt="Typing SVG" />

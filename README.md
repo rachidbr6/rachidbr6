@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rachid%20Bourjila&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Industry%204.0%20%C3%97%20Applied%20AI%20%C3%97%20Project%20Management&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:4a0404,100:b91c1c&height=220&section=header&text=%E2%9A%94%EF%B8%8F%20I%20AM%20ARES&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Rachid%20Bourjila%20%C2%B7%20Industry%204.0%20%C3%97%20Applied%20AI%20%C3%97%20Project%20Management&descAlignY=62&descSize=15" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Engineering+student%2C+ENSGSI+Nancy+%26+Mines+Rabat;Soon%3A+AI+Deployment+Project+Manager+%40+CPAM;Python%2C+LLM%2FRAG%2C+Power+BI;IoT+pipelines%2C+predictive+maintenance%2C+Agile%2FScrum" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=I+am+Ares.+I+don%27t+start+wars%2C+I+finish+them.;Rachid+Bourjila+%C2%B7+ENSGSI+Nancy+%26+Mines+Rabat;Soon%3A+AI+Deployment+Project+Manager+%40+CPAM;Python%2C+LLM%2FRAG%2C+Power+BI%2C+IoT+pipelines" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=rachidbr6&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=rachidbr6&color=b91c1c&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<p><i>Ares doesn't just start battles, he wins them. I don't just ship code, I get it adopted. That's the job.</i></p>
 
 </div>
 
@@ -101,4 +103,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b91c1c,50:4a0404,100:0a0a0a&height=100&section=footer" width="100%"/>

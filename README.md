@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:4a0404,100:b91c1c&height=220&section=header&text=%E2%9A%94%EF%B8%8F%20I%20AM%20ARES&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Rachid%20Bourjila%20%C2%B7%20Industry%204.0%20%C3%97%20Applied%20AI%20%C3%97%20Project%20Management&descAlignY=62&descSize=15" width="100%"/>
+<img src="./profile/ares-hero.gif" alt="Hello war, I'm Ares" width="100%"/>
+
+<h3>Rachid Bourjila · Industry 4.0 × Applied AI × Project Management</h3>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=I+am+Ares.+I+don%27t+start+wars%2C+I+finish+them.;Rachid+Bourjila+%C2%B7+ENSGSI+Nancy+%26+Mines+Rabat;Soon%3A+AI+Deployment+Project+Manager+%40+CPAM;Python%2C+LLM%2FRAG%2C+Power+BI%2C+IoT+pipelines" alt="Typing SVG" />

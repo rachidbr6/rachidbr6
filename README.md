@@ -78,12 +78,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rachidbr6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rachid's GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachidbr6&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+<img src="./profile/stats.svg" alt="Rachid's GitHub stats" height="165"/>
+<img src="./profile/top-langs.svg" alt="Top languages" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachidbr6&theme=tokyonight&hide_border=true" alt="GitHub streak" width="70%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rachidbr6&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub trophies" width="90%"/>
 
 </div>
 

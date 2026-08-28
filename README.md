@@ -3,8 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rachid%20Bourjila&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Industry%204.0%20%C3%97%20Applied%20AI%20%C3%97%20Project%20Management&descAlignY=62&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Engineering+student%2C+ENSGSI+Nancy+%26+Mines+Rabat;Industry+4.0+%C3%97+Applied+AI+%C3%97+Project+Management;Python%2C+LLM%2FRAG%2C+Power+BI;IoT+pipelines%2C+predictive+maintenance%2C+Agile%2FScrum" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Engineering+student%2C+ENSGSI+Nancy+%26+Mines+Rabat;Soon%3A+AI+Deployment+Project+Manager+%40+CPAM;Python%2C+LLM%2FRAG%2C+Power+BI;IoT+pipelines%2C+predictive+maintenance%2C+Agile%2FScrum" alt="Typing SVG" />
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=rachidbr6&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -17,6 +19,12 @@
 - 🌐 Full-stack when a project needs it: Flask/FastAPI/PHP backends, React frontends, MySQL/PostgreSQL/MongoDB
 - 📍 Morocco — currently studying in France
 - 💬 Ask me about predictive maintenance, computer vision, RAG pipelines, or turning a Jupyter notebook into something that actually runs in production
+
+## Right now
+
+- 🚀 Starting **September 2026** as **AI Deployment Project Manager** at **CPAM de Meurthe-et-Moselle** — taking a portfolio of 100+ generative AI use cases from backlog to production across a 620-person organization, with health-data compliance shaping the design from day one
+- 🔧 Still building on the side: an **industrial copilot** — an LLM that reads sensor alerts, works out what failed, and writes the maintenance report so the technician doesn't have to
+- 📚 Recently completed **Harvard CS50x** and **IBM's Deep Learning & Neural Networks with Keras** (see [Certifications](#certifications) below)
 
 ## Tech stack
 
@@ -43,6 +51,8 @@
 <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge" alt="Agile"/>
 <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge" alt="Scrum"/>
 <img src="https://img.shields.io/badge/Project%20Management-FF6B6B?style=for-the-badge" alt="Project Management"/>
+<img src="https://img.shields.io/badge/Change%20Management-4B5563?style=for-the-badge" alt="Change Management"/>
+<img src="https://img.shields.io/badge/GDPR-1D4ED8?style=for-the-badge" alt="GDPR"/>
 
 ## Featured projects
 
@@ -54,6 +64,15 @@
 | [💬 Leave management + HR chatbot](https://github.com/rachidbr6/Gestion-cong-s-Chatbot) | PHP/MySQL/Bootstrap web app for RAMSA Agadir: digitizes leave requests with 3-level hierarchical approval, plus an HR chatbot with no external API |
 | [📚 VictoLibrary](https://github.com/rachidbr6/Victolibrary-) | Personal library manager (Flask + MySQL) with reading-progress tracking, usable as a website or as a native desktop app via PyWebview |
 | [🧑‍💻 Portfolio](https://rachid-bourjila-portfolio.vercel.app) | My personal portfolio site — [source](https://github.com/rachidbr6/portfolio-website) |
+
+## Certifications
+
+<div align="center">
+
+<a href="https://cs50.harvard.edu/certificates/c8460a4e-a727-433e-8852-9090e6016434"><img src="https://img.shields.io/badge/Harvard%20University-CS50x-A51C30?style=for-the-badge&logo=harvard&logoColor=white" alt="Harvard CS50x"/></a>
+<a href="https://coursera.org/verify/79049TYEBL3F"><img src="https://img.shields.io/badge/IBM-Deep%20Learning%20%26%20Neural%20Networks-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Deep Learning"/></a>
+
+</div>
 
 ## GitHub stats
 
@@ -75,6 +94,12 @@
 <a href="mailto:rachid.bourjila13@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/rachid-b-936085294/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://rachid-bourjila-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+
+</div>
+
+<div align="center">
+
+*Building things that get used, not just things that get built.*
 
 </div>
 

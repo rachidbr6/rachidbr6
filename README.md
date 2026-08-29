@@ -5,7 +5,7 @@
 <h3>Rachid Bourjila · Industry 4.0 × Applied AI × Project Management</h3>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=I+am+Ares.+I+don%27t+start+wars%2C+I+finish+them.;𝑓𝑜𝑟𝑡𝑖𝑠+𝑓𝑜𝑟𝑡𝑢𝑛𝑎+𝑎𝑑𝑖𝑢𝑣𝑎𝑡;Rachid+Bourjila+%C2%B7+ENSGSI+Nancy+%26+Mines+Rabat;Soon%3A+AI+Deployment+Project+Manager+%40+CPAM;Python%2C+LLM%2FRAG%2C+Power+BI%2C+IoT+pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=I+am+Ares.+I+don%27t+start+wars%2C+I+finish+them.;𝑓𝑜𝑟𝑡𝑖𝑠+𝑓𝑜𝑟𝑡𝑢𝑛𝑎+𝑎𝑑𝑖𝑢𝑣𝑎𝑡;Rachid+Bourjila+%C2%B7+ENSGSI+Nancy+%26+Mines+Rabat;Python%2C+LLM%2FRAG%2C+Power+BI%2C+IoT+pipelines" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=rachidbr6&color=b91c1c&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
